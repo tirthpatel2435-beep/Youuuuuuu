@@ -76,7 +76,7 @@ p{
 
 <div id="box" onclick="openBox()">📦 Open Box</div>
 
-<img id="resultImg" src="https://i.postimg.cc/QNMP0tr5/cat.png" />
+<img id="resultImg" src="581003124_18062765630557996_5791326292207674453_n.heic.jpg" />
 
 <p id="tag" style="display:none;">Ye aapka samaan niche gir gaya tha 😺🧠</p>
 
